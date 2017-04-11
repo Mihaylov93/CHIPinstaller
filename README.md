@@ -17,7 +17,7 @@
  -		
  -**Motivation** 		
  -		
- -C.H.I.P is an amazing Linux handheld machine. It allows, and will allow more in the future, several uses. However, in order to install the software a heavy use of terminal is needed and this can be awful for user with few experience. Damian Vila and Iker García had previously teamed up to develop PocketInstaller (https://github.com/IkerGarcia/PocketInstaller) . Mathias Thur had been working on several scripts to install different tools like Guacamole, Ownlcoud... we all teamed up and developed CHIPinstaller.		
+ -C.H.I.P is an amazing Linux handheld machine. It allows, and will allow more in the future, several uses. However, in order to install the software a heavy use of terminal is needed and this can be awful for user with few experience. Damian Vila and Iker García had previously teamed up to develop PocketInstaller (https://github.com/IkerGarcia/PocketInstaller) . Mathias Thur had been working on several scripts to install different tools like Guacamole, Owncloud... we all teamed up and developed CHIPinstaller.		
  -		
  -**Contributors** 		
  -		
